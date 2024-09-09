@@ -11,11 +11,11 @@ To clone the repository:
 git clone https://github.com/p-p-p-p/Voice-Assistant.git
 ```
 ```
-cd Llama-3.1-Virtual-Assistant
+cd Voice-Assistant
 ```
 Alternatively, download the ZIP file, extract the folder, and navigate to it:
 ```
-cd Llama-3.1-Virtual-Assistant
+cd Voice-Assistant
 ```
 ## Step 3: Install Required Packages
 My Python version is ```Python 3.10```<br>
