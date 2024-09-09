@@ -8,7 +8,7 @@ Because the response time is faster than Llama-3.1-8B.
 ## Step 2: Clone the Repository or Download ZIP
 To clone the repository:
 ```
-git clone https://github.com/NeuralFalconYT/Llama-3.1-Voice-Assistant.git
+git clone https://github.com/p-p-p-p/Voice-Assistant.git
 ```
 ```
 cd Llama-3.1-Virtual-Assistant
@@ -29,7 +29,7 @@ pip install PyAudio
 [Fix PyAudio Installation Error](https://youtu.be/rIFL4vtX0iA?si=jtJwhCOAN5Okx8J-)
 ## Step 4: Create a .env File
 Create a .env file and paste your username and password from the Colab notebook. 
-![colab](https://github.com/user-attachments/assets/20c36df7-056d-48b5-b512-74f1285e8822)
+![colab](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/1.png)
 
 The format should be:
 ```
@@ -43,10 +43,10 @@ To start the GUI, run:
 ```
 python GUI.py
 ```
-![app](https://github.com/user-attachments/assets/2c9ed26a-07ae-4c54-83c2-6bb038bbdd37)
+![app](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/2.png)
 #### App URL:
 You can find the App URL in the Colab Notebook.
-![colab](https://github.com/user-attachments/assets/20c36df7-056d-48b5-b512-74f1285e8822)
+![colab](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/3.png)
 #### System Role:
 Enter your desired system role.
 #### Language:
@@ -57,7 +57,7 @@ Select the Gender for Edge Text to Speech.
 Click the ```Start``` button to begin interacting with the virtual assistant.
 Click the ```Stop``` button to end the interaction. Please note that it might take some time for the process to stop — just be patient.
 ## Step 6: Get Talking Head Avatar (Optional)
-![Talking_Head_Avatar](https://github.com/user-attachments/assets/b1ea8927-f622-4b84-933e-13481a9ec199)<br>
+![Talking_Head_Avatar](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/4.png)<br>
 Download [VMagicMirror](https://malaybaku.github.io/VMagicMirror/en/)<br>
 Set up a VTUBER model & lip sync mic as Stereo Mix (Realtek(R) Audio)
 ## Step 7: Uninstall (Optional)
@@ -67,10 +67,10 @@ pip uninstall -r requirements.txt
 ```
 Then, delete the folder.
 ###### You can add your own TTS if you don't want to use Edge TTS. For that, you need to write code and either spend money to buy an API or use a faster open-source TTS.
-![1](https://github.com/user-attachments/assets/315253c0-4c91-449f-81b0-dab0b028f040)
-![2](https://github.com/user-attachments/assets/3972d13c-0513-4f87-b00a-9d9f75d089a0)
-![3](https://github.com/user-attachments/assets/53f6e45f-8e85-4fc5-91e3-3daa0b9f23d1)
-![4](https://github.com/user-attachments/assets/1f20a110-dc75-4528-b981-29b9b9f78f26)
+![1](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/5.png)
+![2](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/6.png)
+![3](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/7.png)
+![4](https://raw.githubusercontent.com/p-p-p-p/Voice-Assistant/main/images/8.png)
 
 ## Acknowledgments
 
